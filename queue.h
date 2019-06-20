@@ -1,8 +1,3 @@
-/*
- * Extended interface of queues
- *
- * 15-122 Principles of Imperative Computation
- */
 
 #ifndef __QUEUE_EXTENDED_H__
 #define __QUEUE_EXTENDED_H__
